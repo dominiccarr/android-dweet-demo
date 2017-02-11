@@ -1,0 +1,1 @@
+This is a simple example of making a HTTP request, using the Volley library, to the IoT cloud service dweet.io. It is intended for my students in NCI, as a basis for their assignment.
